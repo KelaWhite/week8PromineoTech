@@ -1,0 +1,83 @@
+body {
+    background-color: #F5F1ED;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    color: #3D3B3F;
+}
+
+a {
+    text-decoration: none;
+    color: #8F250C
+}
+
+a:visited {
+    text-decoration: none;
+    color: #B76D68
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.nav {
+    margin: auto;
+}
+
+.head {
+    text-align: center;    
+}
+
+h1.head{
+    font-family: 'Walter Turncoat', cursive;
+    font-size: 56px;
+    color: #001021;
+    margin: 0;
+}
+
+h3.head {
+    font-weight: 400;
+    font-size:20px;
+    margin: 0;
+}
+
+table.head {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Walter Turncoat', cursive;
+    font-size: 16px;
+}
+
+.main {
+    background-color: white;
+    width: 75%;
+    margin: auto;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+h3.body {
+    font-family: 'Walter Turncoat', cursive;
+    font-size: 24px;
+}
+
+.photo:hover {
+    opacity: 0.5;
+}
+
+.italic {
+    font-style: italic;
+}
+
+#section-3p {
+    font-style: italic;
+}
+
+.FormFont {
+    font-weight: 400;
+    color: #8F250C
+}
+input {
+    font-family: 'Walter Turncoat', cursive;
+}
